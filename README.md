@@ -49,13 +49,20 @@ Answer -  JsonPowerDB is a Database Server with Developer friendly REST API serv
 
 ![Screenshot (46) - Copy](https://user-images.githubusercontent.com/70262355/129165162-75efdce1-082c-4bdc-9978-5cda1a320b4f.png)
 
--First page of website (INDEX File interface)
+- First page of website (INDEX File interface)
 
 ![Screenshot (48)](https://user-images.githubusercontent.com/70262355/129227253-dcfdd6ca-f34b-46f2-b220-b016537881b6.png)
-
 
 -  Registration Form Interface
 
 ![Screenshot (47)](https://user-images.githubusercontent.com/70262355/129166127-79ce2160-5f9b-4e39-9264-e0a74bedf851.png)
+
+- Employee Details Interface
+
+![Screenshot (51)](https://user-images.githubusercontent.com/70262355/129227720-8d8e3b56-36f3-447f-8f94-830bc01a8aea.png)
+
+- Delete Employee Interface
+
+![Screenshot (50)](https://user-images.githubusercontent.com/70262355/129227724-dd7735e4-fd35-44bb-b922-a569838ea65a.png)
 
   
